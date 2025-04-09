@@ -18,6 +18,28 @@ A full-stack web application for managing products with user authentication, pro
 - **Email**: r87094user1@gmail.com  
 - **Password**: R@hgav8709
 
+## Screenshots
+
+  
+![Product Listing](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184633.png?updatedAt=1744204724895)
+
+ 
+![Product Details](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184729.png?updatedAt=1744204724310)
+
+ 
+![Create Product](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20185913.png?updatedAt=1744205420697)
+
+
+ 
+![Edit Product](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20185957.png?updatedAt=1744205419383)
+
+  
+![Filter Products](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184801.png?updatedAt=1744204723544)
+
+![User View](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184641.png?updatedAt=1744204723552)
+
+![Dashboard](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20190435.png?updatedAt=1744205701825)
+
 ## Tech Stack
 
 ### Frontend
@@ -92,28 +114,7 @@ npm start
 
 5. Open your browser and navigate to `http://localhost:3000`
 
-## Screenshots
 
-### Product Listing  
-![Product Listing](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184633.png?updatedAt=1744204724895)
-
-### Product Details  
-![Product Details](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184729.png?updatedAt=1744204724310)
-
-### Create Product  
-![Create Product](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184715.png?updatedAt=1744204724460)
-
-### Edit Product  
-![Edit Product](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184722.png?updatedAt=1744204724306)
-
-### Filter Products  
-![Filter Products](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184648.png?updatedAt=1744204723831)
-
-### Product View (User Mode)  
-![User View](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184641.png?updatedAt=1744204723552)
-
-### Dashboard  
-![Dashboard](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184801.png?updatedAt=1744204723544)
 
 ## Contact
 
