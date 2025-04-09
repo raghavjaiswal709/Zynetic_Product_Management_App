@@ -6,8 +6,17 @@ A full-stack web application for managing products with user authentication, pro
 ## Live Demo
 
 - Frontend: [https://zynetic-product-management-app.vercel.app](https://zynetic-product-management-app.vercel.app)
-- Backend API: [https://zynetic-product-management-gqb6ti5ea-raghav-jaiswals-projects.vercel.app](https://zynetic-product-management-app.vercel.app/)
+- Backend API: [https://zynetic-product-management-app.vercel.app](https://zynetic-product-management-app.vercel.app)
 
+## Don’t want to register? 😄 Use the demo credentials:
+
+### Admin
+- **Email**: r87094@gmail.com  
+- **Password**: R@hgav8709
+
+### User
+- **Email**: r87094user1@gmail.com  
+- **Password**: R@hgav8709
 
 ## Tech Stack
 
@@ -18,17 +27,12 @@ A full-stack web application for managing products with user authentication, pro
 - Tailwind CSS
 - Axios for API communication
 
-
 ### Backend
 
 - NestJS
 - TypeScript
 - MongoDB (with Mongoose)
 - JWT Authentication
-
-
-
-
 
 ## Setup Instructions
 
@@ -37,7 +41,6 @@ A full-stack web application for managing products with user authentication, pro
 - Node.js (v14 or later)
 - npm or yarn
 - MongoDB (local or Atlas)
-
 
 ### Installation
 
@@ -65,7 +68,7 @@ npm install
 Create a `.env` file in the backend directory:
 
 ```
-MONGODB_URI=Give yours
+MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 JWT_EXPIRATION=1d
 PORT=3001
@@ -89,18 +92,29 @@ npm start
 
 5. Open your browser and navigate to `http://localhost:3000`
 
-
-
-
 ## Screenshots
 
-Product Listing
-Product Details
+### Product Listing  
+![Product Listing](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184633.png?updatedAt=1744204724895)
 
+### Product Details  
+![Product Details](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184729.png?updatedAt=1744204724310)
 
+### Create Product  
+![Create Product](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184715.png?updatedAt=1744204724460)
+
+### Edit Product  
+![Edit Product](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184722.png?updatedAt=1744204724306)
+
+### Filter Products  
+![Filter Products](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184648.png?updatedAt=1744204723831)
+
+### Product View (User Mode)  
+![User View](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184641.png?updatedAt=1744204723552)
+
+### Dashboard  
+![Dashboard](https://ik.imagekit.io/b8csj3eex/images/Screenshot%202025-04-09%20184801.png?updatedAt=1744204723544)
 
 ## Contact
 
-Your Name - raghavjaiswal0000@gmail.com
-
-
+Raghav Jaiswal - raghavjaiswal0000@gmail.com
