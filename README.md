@@ -5,7 +5,7 @@ A full-stack web application for managing products with user authentication, pro
 
 ## Live Demo
 
-- Frontend: [https://zynetic-product-management-app.vercel.app](https://zynetic-product-management-app.vercel.app)
+- Frontend: [https://zynetic-product-management-app-k1ns.vercel.app/](https://zynetic-product-management-app-k1ns.vercel.app/)
 - Backend API: [https://zynetic-product-management-app.vercel.app](https://zynetic-product-management-app.vercel.app)
 
 ## Don’t want to register? 😄 Use the demo credentials:
